@@ -1,0 +1,8 @@
+C:\Temp_HM\Bunglow\Temp\Hemal.Soni.RSSFeed\HSRSSFeed\HSRSSFeedConsol\bin\Debug\HSRSSFeedConsol.exe.config
+C:\Temp_HM\Bunglow\Temp\Hemal.Soni.RSSFeed\HSRSSFeed\HSRSSFeedConsol\bin\Debug\HSRSSFeedConsol.exe
+C:\Temp_HM\Bunglow\Temp\Hemal.Soni.RSSFeed\HSRSSFeed\HSRSSFeedConsol\bin\Debug\HSRSSFeedConsol.pdb
+C:\Temp_HM\Bunglow\Temp\Hemal.Soni.RSSFeed\HSRSSFeed\HSRSSFeedConsol\obj\Debug\HSRSSFeedConsol.csprojResolveAssemblyReference.cache
+C:\Temp_HM\Bunglow\Temp\Hemal.Soni.RSSFeed\HSRSSFeed\HSRSSFeedConsol\obj\Debug\HSRSSFeedConsol.exe
+C:\Temp_HM\Bunglow\Temp\Hemal.Soni.RSSFeed\HSRSSFeed\HSRSSFeedConsol\obj\Debug\HSRSSFeedConsol.pdb
+C:\Temp_HM\Bunglow\Temp\Hemal.Soni.RSSFeed\HSRSSFeed\HSRSSFeedConsol\bin\Debug\Newtonsoft.Json.dll
+C:\Temp_HM\Bunglow\Temp\Hemal.Soni.RSSFeed\HSRSSFeed\HSRSSFeedConsol\bin\Debug\Newtonsoft.Json.xml
